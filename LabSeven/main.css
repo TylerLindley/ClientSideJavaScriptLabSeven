@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document (Taken from class example) */
+
+html, 
+body {
+  height: 100%; 
+  font-size: 1em; 
+}
+
+body {
+  display:flex; 
+  align-items: center; 
+  justify-content: center;
+  background-color: #FF007C; 
+}
+
+.container {
+  background-color: #fff; 
+  border-radius:5px; 
+  color: #333; 
+}
+
+h1 {
+  font-family: 'Sriracha', cursive;
+  font-size:6em;
+  text-align:center; 
+}
+h2 {
+  font-family: 'Sriracha', cursive;
+  font-size:2em;
+  text-align:center; 
+}
+
+li {
+    font-family: 'Sriracha', cursive;
+    font-weight: bold;
+    font-size: larger;
+    text-align:center; 
+  }
+
